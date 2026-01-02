@@ -1,0 +1,9 @@
+vehicle_id,plate_no,driver,current_location,time_start,time_end,status,remarks,last_updated,time_start_dt,time_end_dt
+P01,SG5678B,Ali,Dormitory,06:00:00,09:00:00,Busy,Morning transport,,06:00:00,09:00:00
+P01,SG5678B,Ali,Free,10:00:00,12:00:00,Available,Free slot,,10:00:00,12:00:00
+P01,SG5678B,Ali,Site A,13:00:00,16:00:00,Available,Standby for site,,13:00:00,16:00:00
+P01,SG5678B,Ali,P212,17:00:00,19:00:00,Available,standby,2026-01-02 17:48,17:00:00,19:00:00
+P02,SG8899C,Ahmad,Dormitory,06:30:00,09:30:00,Busy,Morning transport,,06:30:00,09:30:00
+P02,SG8899C,Ahmad,Free,10:00:00,12:00:00,Available,Free slot,,10:00:00,12:00:00
+P02,SG8899C,Ahmad,Site B,13:00:00,16:00:00,Available,Standby for site,,13:00:00,16:00:00
+P02,SG8899C,Ahmad,Site B,17:00:00,19:00:00,Busy,Evening transport,,17:00:00,19:00:00
